@@ -34,7 +34,7 @@ url: "aoe2syntactic.github.io" # the base hostname & protocol for your site, e.g
 theme: minima
 
 minima:
-  skin: auto
+  skin: dark
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/paradox303"}
     - { platform: github, user_url: "https://github.com/aoe2syntactic"}
