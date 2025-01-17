@@ -1,0 +1,34 @@
+awards2024: 
+  host: paradox303
+  awards:
+    - best-s-tier:
+      name: "Best S-Tier tournament"
+      nominees:
+        - name: "Noble Apartment Cup"
+          link: "https://liquipedia.net/ageofempires/Noble_Apartment_Cup"
+        - name: "Red Bull Wololo El Reinado"
+          link: "https://liquipedia.net/ageofempires/Red_Bull_Wololo/El_Reinado/AoE2"
+        - name: "Warlords III"
+          link: https://liquipedia.net/ageofempires/Warlords/3
+        - name: "Hidden Cup 5"
+          link: https://liquipedia.net/ageofempires/Hidden_Cup/5
+        - name: "Nili's Apartment Cup V"
+          link: https://liquipedia.net/ageofempires/Nili%27s_Apartment_Cup/5
+      winner: "Red Bull Wololo El Reinado"
+      image: best-s-tier.jpg
+      description: >
+        Congratulations to @redbullgaming for RBW: El Reinado coming home as the best S-tier with their LAN in Spain back in October.
+        This proved to be the best tournament of the year, but only just! It pipped NAC V by ONE vote only so also very big congratulations to @Nili_AoE and all the organisers of NAC V doing a stellar job.
+    - best-a-tier:
+      name: "Best A-Tier tournament"
+      winner: "Wandering Warriors Cup 2"
+      image: best-a-tier.jpg
+      description: >
+        Up next is best A-tier! This won't come as a huge surprise, and this tournament absolutely ran away with the voting, securing more than half.
+
+        Wandering Warriors Cup returned for it's second edition after a break of a few years and really proved to be a hit with the AoE community with it's transport and nomadic style maps (even Houseboat). 
+
+        Well done to @T90Official and @Dave_AoE  for bringing it back and the organisers for doing a great job.
+
+        Wandering Warriors Cup 2, your best A-tier tournament for 2024.
+    
