@@ -1,0 +1,30 @@
+The Age of Empires II Community Awards {{ page.title }} were hosted by {{ data.host }}.
+
+<article class="scroller">
+{% for award in data.awards %}
+<section>
+<h2>{{ award.name }}</h2>
+
+{% if award.nominees %}
+
+Nominated for {{ award.name }} of {{ page.title }}:
+
+<ul>
+{% for nominee in award.nominees %}
+<li>
+    <a href="{{ nominee.link }}">{{ nominee.name }}</a>
+</li>
+{% endfor %}
+</ul>
+
+{% endif %}
+</section>
+<section>
+<h3>Winner of {{ award.name }}</h3>
+
+<strong>{{award.winner}}</strong>
+<blockquote>{{ award.description }}</blockquote>
+<img alt="{{award.winner}}" src="{{site.baseurl}}/assets/{{page.title}}/{{award.image}}">
+</section>
+{% endfor %}
+</article>
