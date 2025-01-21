@@ -21,12 +21,12 @@
 title: Age of Empires II Community Awards
 
 author:
-  name: SyntacticSalt
+  name: Paradox303, SyntacticSalt
 
 description: >- # this means to ignore newlines until "baseurl:"
   The Age of Empires II Community Awards are hosted by paradox303.
+  All assets are created by paradox303.
   This site is maintained by SyntacticSalt.
-  Image licenses may vary.
 baseurl: "/aoe-awards" # the subpath of your site, e.g. /base
 url: "aoe2syntactic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -37,7 +37,8 @@ minima:
   skin: dark
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/paradox303"}
-    - { platform: github, user_url: "https://github.com/aoe2syntactic"}
+    - { platform: twitch, user_url: "https://twitch.tv/paradox303"}
+    #- { platform: github, user_url: "https://github.com/aoe2syntactic"}
 
 plugins:
   - jekyll-remote-theme
