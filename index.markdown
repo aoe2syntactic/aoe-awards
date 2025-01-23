@@ -6,8 +6,9 @@ layout: home
 ---
 
 Welcome to the archive of the **Age of Empires II Community Awards**, hosted by **paradox303**.
-[paradox303 on twitter](https://twitter.com/paradox303_)
-[paradox303 on twitch](https://twitch.tv/paradox303)
+<div class="social-links">
+        {%- include social.html -%}
+</div>
 
 Previous editions:
-- [2024 Edition](2024)
+## [2024](2024)
