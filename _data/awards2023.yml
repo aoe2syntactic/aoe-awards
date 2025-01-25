@@ -1,0 +1,178 @@
+host: paradox303
+awards:
+
+  - name: "Map scripter of the year"
+    winner: Chrazini
+    image: map-scripter.png
+    description: >
+      The vote was hotly contested, but we did come out with a very worthy champion.
+      His maps are a main stay in S tier tournaments such as, Frigid Lake, Haboob, Desert Void, Morass, Rocky Forest, Shoals and countless more.
+
+      He also happens to be the individual you want to congratulate/blame for current Arabia.
+      Turns out, he is also a pretty decent player, with some of the best monk micro in the game. Big congratulations to our favourite Dane...
+
+  - name: "Unsung Hero of the year"
+    intro: >
+      This award will be for outstanding work in the community.
+      It can be for individuals that provide tools, admins, graphics etc.
+    winner: TWest
+    image: unsung-hero.png
+    description: >
+      This award in particular had a huge amount of unique votes which really speaks volumes for the amount of people that are contributing to the community for the love of it.
+      I won't do this for all posts, but some do deserve honourable mentions.
+      
+      happyleaves of http://aoe2recs.com,
+      Anne_HK (mod god),
+      JBR
+      and many more...
+
+      This individual in particular has made a huge impact in 2023 for the Age of Empires II community.
+      There's not many maps in the big S tier tournaments that he hasn't played a part in editing and improving.
+
+  - name: "Creative Award"
+    intro: >
+      The creative award will be open to nominations for people that you think do a fantastic job in providing amazing content to the AoE community in the most creative fashion.
+      This can include streamers, YouTube editors, musicians, X (formerly known as twitter) accounts, podcasters etc. 
+    winner: Masmorra
+    image: creative-award.png
+    description: >
+      Again we had A LOT of people have a sizable number of votes on this one, and no respect to the voters....
+      but, I think you could have made a better effort and not just vote for your biggest streamer.
+      
+      With that being said, we did find an extremely worthy winner for 2023.
+      One of those people that you just love to have in your ears... Nice one, bruv!
+
+  - name: "Up and coming streamer"
+    intro: >
+      Pick a streamer that has taken off in 2023 and is destined for bigger and greater things.
+    winner: Daniela_AoE
+    image: up-and-coming-streamer.png
+    description: >
+      Aimed at 'a streamer that has taken off in 2023 and is destined for bigger and greater things.'
+      This individual in particular has done a great job of casting events, building a community, hosting their own events and the list goes on.
+      
+      Congratulations on a great year and a very well done to Daniela_AoE. 
+
+  - name: "Tournament contributor of the year"
+    intro: >
+      This is an opportunity to shine a light on any individual that provided a huge amount of work to operations from tournaments this year.
+      This may be an individual from a high level tournament or someone that is involved putting together community tournaments.
+    winner: MembTV
+    image: tournament-contributor.png
+    description: >
+      Aimed at >This is an opportunity to shine a light on any individual that provided a huge amount of work to operations from tournaments this year. This may be an individual from a high level tournament or someone that is involved putting together community tournaments.<
+      We really have so many individuals worthy of highlighting here that really provide such terrific value to the competitive community.
+
+      Our winner though, hosted two S tier tournaments this year (one just about broke me in half this year) and casted countless amount of others throughout the year.
+      Congratulations to MembTV.
+
+  - name: "Most improved caster"
+    intro: >
+      Pick an individual that you believe has improved their casting the most in 2023. 
+    winner: TWest
+    image: most-improved-caster.png
+    description: >
+      There won't be too many people receiving two awards tonight, but in my opinion this one is very well deserved after a very consistent year when it came to their casting.
+      Covering a ton of TTL and Nations Cup earlier in the year and has been very consistent ever since.
+
+      Very well done and congratulations on your second award, T-West.
+
+  - name: "Best series"
+    intro: >
+      A lot of highly entertaining matchups this year. Which one was the best?
+    winner: "Hera vs TaToH - Warlords II Final"
+    image: best-series.png
+    description: >
+      This one was very, very tight when it came to deciding a winner.
+      We have had a lot of very high standard Age of Empires this year, but also extremely entertaining from a viewers perspective too. Beating off the competition from...
+
+      Canada vs China - Nations Cup Grand Final (3rd)
+      Liereyy vs Hera - NAC IV Final (2nd)
+
+      The Best Series of the Year for 2023 goes to... Hera vs TaToH Warlords II Final
+
+  - name: "Best non S-Tier tournament"
+    intro: >
+      Pick you favourite from all the A-, B-, and C-Tier tournaments of 2023.
+    winner: "The Cartographers"
+    image: best-non-s-tier.png
+    description: >
+      We had a lot of different votes for this one, but one particular ran away with it and ended up with a large portion of the votes despite the huge amount of non S-tier tournaments we have had this year.
+
+      Our winner might not have been S-Tier, but it did feel like it.
+      Won by the classic duo of TheViper and JorDan.
+      
+      The winner is...The Cartographers, Best non S-Tier Tournament for 2023!
+      Hosted by The Viper and additional work by T-West, OrnLu and Lord Patito.
+      Well done guys! I am sure the community will be waiting for another next year!
+
+  - name: "Best S-Tier tournament"
+    intro: >
+      Pick you favourite from the [S-Tier Tournaments](https://liquipedia.net/ageofempires/Age_of_Empires_II/S-Tier_Tournaments) of 2023.
+    nominees:
+      - name: "Warlords II"
+        link: "https://liquipedia.net/ageofempires/Warlords II"
+      - name: "T90 Titans League 3: Platinum"
+        link: "https://liquipedia.net/ageofempires/T90_Titans_League/3/Platinum_League"
+      - name: "Nations Cup 2023"
+        link: https://liquipedia.net/ageofempires/Nations_Cup/2023
+      - name: "King of the Desert V"
+        link: https://liquipedia.net/ageofempires/King_of_the_Desert/5
+      - name: "Nili's Apartment Cup 4"
+        link: https://liquipedia.net/ageofempires/Nili%27s_Apartment_Cup/4
+      - name: "T90 Titans League 2: Platinum"
+        link: "https://liquipedia.net/ageofempires/T90_Titans_League/2/Platinum_League"
+    winner: "Nili's Apartment Cup 4"
+    image: best-s-tier.png
+    description: >
+      We had six S tier tournaments this year. Thank you to everyone that played a part in making them! These tournaments are huge asks, and the community get to watch countless entertainment all year round.
+
+      Nations Cup 2023 (3rd)
+      Warlords II (2nd)
+
+      Leaving the clear and obvious, and my personal favourite (the meet-up was a highlight of the year for me)...
+
+      Nili's Apartment Cup IV, Best S-Tier Tournament!
+      Congrats Nili and here is hoping that NAC V is the send off you deserve! Shoutout to sieste for also admin duties during qualifiers.
+
+  - name: "Caster of the year"
+    winner: MembTV
+    image: caster.png
+    description: >
+      Another indivudal that has managed to scoop up two awards in voting. Incredible commitment to casting, I do not know how he does it...
+      
+      Total and brutal domination
+      MembTV, Caster of the Year 2023!
+
+  - name: "Comeback Player of the Year"
+    intro: >
+      'Comeback player' is not all that easy to define so there will be some interpretation to what you define as a 'comeback player.'
+      For the purposes of the awards it should be players that you considered inactive, inactive in tournaments or even underperforming in tournaments in previous years.
+    winner: Hearttt
+    image: comeback-player.png
+    description: >
+      This one was a complete and utter landslide and there can be no debate that this player has had a great resurgence in their AoE career after being around for quite a number of years now.
+      Recently qualified for NAC V, let's see what is next...
+
+      Huge congrats to Hearttt, Comeback Player of the Year for 2023!
+  
+  - name: "Most improved player"
+    intro: >
+      The player that you have perceived the most this year in terms of gameplay/results in tournaments.
+    winner: Sebastian
+    image: most-improved-player.png
+    description: >
+      Another very dominant victory in this category with this player rising to prominence this year performing for Team Austria in Nations Cup, a huge breakout in TTL, making the main event stage of Warlords II and just recently qualifying for the NAC V main event due to take place in 2024.
+      What's in store for next? How high can they go?
+
+      Well done to FreakinAndy, Most Improved Player of the Year for 2023
+
+  - name: "Player of the year"
+    intro: >
+      Not much explanation needed here. Pick your best performer of the year! 
+    winner: Hera
+    image: player.png
+    description: >
+      There isn't going to be much debate over this, because this player has been utterly dominant this year. Winning just about everything he enters in 1v1 and very impressive performances in team game events too.
+
+      A very, very well done to Hera, Player of the Year 2023
