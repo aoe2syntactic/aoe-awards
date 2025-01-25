@@ -5,9 +5,13 @@ The Age of Empires II Community Awards {{ page.title }} were hosted by {{ data.h
 <section>
 <h2>{{ award.name }}</h2>
 
+{% if award.intro %}
+    {{ award.intro | markdownify }}
+{% endif %}
+
 {% if award.nominees %}
 
-Nominated for {{ award.name }} of {{ page.title }}:
+<strong>Nominated for {{ award.name }} of {{ page.title }}:</strong>
 
 <ul>
 {% for nominee in award.nominees %}
