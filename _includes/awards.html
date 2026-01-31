@@ -1,6 +1,14 @@
 The Age of Empires II Community Awards {{ page.title }} were hosted by {{ data.host }}.
 
 <article class="scroller">
+{% if data.intro %}
+<section>
+<h2>Welcome to the AoE2 Community Awards {{ page.title }}</h2>
+<blockquote>{{ data.intro.description | markdownify }}</blockquote>
+<img alt="AoE2 Community Awards {{ page.title }}" src="{{site.baseurl}}/assets/{{page.title}}/{{data.intro.image}}">
+</section>
+{% endif %}
+
 {% for award in data.awards %}
 <section>
 <h2>{{ award.name }}</h2>

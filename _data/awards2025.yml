@@ -1,4 +1,11 @@
 host: paradox303
+intro:
+  image: welcome.jpeg
+  description: >
+    Thank you all to who responded, I made a few changes this year in the voting process and overall I am happy with how it went! I have a few changes I want to implement next year, but I think overall it was much improved.
+
+
+    In particular I'd like to give some thanks to T-West, NegoDrama, Uglie, welcometorapture, Rbase and anyone else I missed for helping out with some little things to get this all together! Creating the quiz, promoting, collecting the data, making images, writing these posts.... it all takes time, hope you enjoy!
 
 awards:
   - name: "Community Website of the Year"
