@@ -7,5 +7,12 @@
 .scroller section {
     min-height: 70vh;
     scroll-snap-align: start;
-  }
-  
+}
+
+.scroller img {
+    max-width: 100%;
+    max-height: 50vh;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}

@@ -16,7 +16,11 @@ The Age of Empires II Community Awards {{ page.title }} were hosted by {{ data.h
 <ul>
 {% for nominee in award.nominees %}
 <li>
+    {% if nominee.link %}
     <a href="{{ nominee.link }}">{{ nominee.name }}</a>
+    {% else %}
+    {{ nominee.name }}
+    {% endif %}
 </li>
 {% endfor %}
 </ul>
@@ -27,7 +31,7 @@ The Age of Empires II Community Awards {{ page.title }} were hosted by {{ data.h
 <h3>Winner of {{ award.name }}</h3>
 
 <strong>{{award.winner}}</strong>
-<blockquote>{{ award.description }}</blockquote>
+<blockquote>{{ award.description | markdownify }}</blockquote>
 <img alt="{{award.winner}}" src="{{site.baseurl}}/assets/{{page.title}}/{{award.image}}">
 </section>
 {% endfor %}

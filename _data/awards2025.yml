@@ -1,0 +1,257 @@
+host: paradox303
+
+awards:
+  - name: "Community Website of the Year"
+    winner: "AoE2 Insights & Spectator Dashboard (Tie)"
+    image: website.jpeg
+    nominees:
+      - name: "AoE2 Insights"
+        link: https://aoe2insights.com
+      - name: "Spectator Dashboard"
+        link: https://aoe2recs.com
+      - name: "Liquipedia"
+        link: https://liquipedia.net/ageofempires
+      - name: "AoE2 tournaments"
+        link: https://aoe2tournaments.com/
+    intro: "Our first award goes to Website of The Year."
+    description: >
+      In all honesty, we are very spoiled with the amount of community tools we have. These two winners (it's a dead heat!) are AoE2 Insights and Spectator Dashboard. Thank you for everything you do!
+
+  - name: "Community Contributor (Unsung Hero)"
+    image: contributor.jpeg
+    winner: "Rbase96"
+    # nominees:
+    #   - name: "Rbase96"
+    #   - name: "ZetaTwo"
+    #   - name: "Anne_HK"
+    #   - name: "JBR"
+    intro: Second award is for the Community Contributor of the Year aka the Unsung Hero!
+    description: >
+      Let me preface this by saying we also have A LOT of people worthy of such recognition because we have so so sooooooo many people that are willing to volunteer their spare time and pour into aoe2.
+      I think that's something that goes very unnoticed, or perhaps don't quite realise how much time people do pour into the community, or they simply just aren't aware.
+
+      With that, I'd like to give a shout out to many more people that received a decent portion of votes that I think deserve it.
+        - Anne_HK for all her beautiful mods.
+        - Vodka for his crazy shifts as an observer who always stays LOCKED IN no matter what.
+        - happyleaves for all his work with Spectator Dashboard.
+        - chpy for his beautiful tool tips overlay on Twitch.
+        - T-West, who does an absolute insane amount and is someone that always answers my messages for help when I ask.
+
+      Rbase96 however is well deserving to win this award for the second year running.
+      This guy does such a huge amount, not only for the professional events hosted by T90, but also the  countless amount of community events which in my opinion do a huge amount in keeping the casual comeptitive players interested in the game.
+      Rbase, you are truly a credit to the community and whenever you decide to step back it will be a massive loss.
+      
+      Hopefully not for some time.
+
+  - name: "Map Scripter of the Year"
+    image: scripter.jpeg
+    winner: "T-West"
+    # nominees:
+    #   - name: "T-West"
+    #   - name: "Chrazini"
+    #   - name: "Zetnus"
+    #   - name: "Lord Patito"
+    intro: Next up is Map Scripter of the Year, and as you can tell I have already glazed this guy a fair amount in the last post, but he is very much deserving of the praise.
+    description: >
+      Mr @TravisWestura is the 2025 winner, creating maps such as Valley of Kings, doing an INSANE amount of editing and fixing up maps for tournaments and also pushing the boundaries of map scripting itself developing a new land placement technique.
+      
+      You are a massive credit to the community and we are very very lucky to have you! Here's to an even better 2026
+
+  - name: "Upcoming Creator Award"
+    image: upcoming-creator.jpeg
+    winner: "Lewis"
+    # nominees:
+    #   - name: "Lewis"
+    #   - name: "Daniela_AoE"
+    #   - name: "Bulletchen"
+    #   - name: "Margougou"
+    intro: "Up next is the Upcoming Creator. I think what surprised a lot of people was the casting skills of this young man from the UK."
+    description: >
+      @lewisaoe certainly improved a lot as a player in 2025, but in my opinion he really showed out well on Hera's channel casting his games.
+      If he doesn't make it to RBW Londonium, I think he'd be a great option as a 'pro' colour commentator.
+
+      Very promising times ahead for Lewis. Congratulations!
+
+  - name: "Most Improved Caster"
+    image: improved-caster.jpeg
+    winner: "Daniela_AoE"
+    # nominees:
+    #   - name: "Daniela_AoE"
+    #   - name: "LidaKor"
+    #   - name: "OrnLu"
+    #   - name: "Maso"
+    intro: Up next is Most Improved Caster  and some very well deserved recognition.
+    description: >
+      If you were to go on Twitch during last year there was a good chance Dani was casting an event you wanted to watch.
+      Sometimes even during the wee hours of the night for her (LY Cup was a ridiculous start to make being in North America).
+      Not only the S-tier events, A-tiers, B-tiers and even more.
+
+      You're not upcoming anymore, awesome work, Dani!
+
+  - name: "Most Improved Player of the Year"
+    image: improved-player.jpeg
+    winner: "Lewis"
+    nominees:
+      - name: "Lewis"
+      - name: "Lucho"
+      - name: "StonePlease"
+    description: >
+      We have our first second prize winner of the year!
+
+      @lewisaoe is back for more, this time as the Most Improved Player of the Year!
+
+      Lewis had a big breakthrough in 2025 with some very impressive tournament results, headlined by his A-Tier win in Sudden Desasster 2 beating FreakinAndy 4-3 in the finals. He also had an impressive second place in Heaven and Hell while also becoming the British national champion winning GB Cup. He finished last year with a tough RO32 loss to Hera in KOTD 6. Welcome to seeding hell in AoE II...
+
+      There's definitely potential there for Lewis to become the next 'top 10 player.' Congrats to him and our second place finisher, Lucho and finally our third place, StonePlease. Wishing you all a great 2026.
+
+  - name: "Best C-Tier Tournament"
+    image: c-tier.jpeg
+    winner: "Wallhalla 2: Silver League"
+    nominees:
+      - name: "Wallhalla 2: Silver League by JonSlow"
+      - name: "Nomad Cup by ScORpIoN"
+      - name: "Anti Meta Tournament by Nacho"
+    description: >
+      One for the clowns/clown adjacent/out loud clown allies next... 🤡
+
+      We have the award for the best C-Tier tournament which goes to Wallhalla 2: Silver League! Featuring maps such as Tulou, Jungle Rumble, Benteng and of course Arena.
+
+      Hosted by @jonslow_aoe and his admin team welcometorapture and Potkeny!
+
+  - name: "Best B-Tier Event"
+    winner: "Master of HyperRandom II (Zetnus)"
+    image: b-tier.jpeg
+    nominees:
+      - name: "Master of HyperRandom II by Zetnus"
+      - name: "Amigo Wars by Somero and Rage Forest"
+      - name: "Rage Arena by Somero, Daniela and Rage Forest"
+    intro: What comes after C? It's B of course! Well, in this case.
+    description: >
+      Yep that's right Master of HyperRandom II hosted by @ZetnusTheGreat is the 2025 winner for the best B-Tier event.
+
+      If you want a tournament that always has something very strange and want to see players innovate and adapt to the surroundings, MoHR is the tournament to watch for you. The unique starting scouts are my favourite part of hyper random. Always fun to play and watch.
+      
+      It was a clean sweep for the Rage Forest community on the rest of the podium
+
+  - name: "Best A-Tier Event"
+    image: a-tier.jpeg
+    winner: "Sudden Dessaster 2 (Jon Slow & T-West)"
+    nominees:
+      - name: "Sudden Dessaster 2 by JonSlow and T-West"
+      - name: "Master of Hyper Random 3 by Zetnus, Dave and OGStragglerTree"
+      - name: "Cartographers 2 by T-West"
+    intro: Next award! Best A-Tier event for 2025!
+    description: >
+      We have some more repeat winners! Congrats to @jonslow_aoe and  @TravisWestura aka T-West for their work on Sudden Dessaster 2 which proved a HUGE hit with the AoE II community. 
+
+      Sudden Death is a hugely fun game mode with massive upset potential especially when you have some top players struggling to break out of their hamster Arabia make skirms driven mind. Who won the event again?
+
+  - name: "Best New Tournament Map"
+    image: map.jpeg
+    winner: "Immersion (TheMadCADer)"
+    nominees:
+      - name: "Immersion by TheMadCADer"
+      - name: "Skukuza by YoungPanda95"
+      - name: "Wellsprings by TheMadCADer"
+    intro: Probably the most contested vote we had, I think we got the shortlist pretty good this year for the best New Tournament Map!
+    description: >
+      Making it's debut in Warlords IV and made by the @TheMadCADer209, 'Immersion' made appearances in LingHe Cup and Thalassocracy 2 where it was played a lot providing some very high level and entertaining games.
+
+  - name: "Best Moment of 2025"
+    image: moment.jpeg
+    winner: "Hera king snipe vs Mr Yo at The Garrison"
+    nominees:
+      - name: "Hera king snipe vs Mr Yo"
+      - name: "DauT's quickwalling vs Hera"
+      - name: "The 4-hour game"
+      - name: "DuDuZhu 3 villager victory"
+    intro: > 
+      Up next, Best Moment!
+      
+      *"A moment that was particularly hype, memorable and amazing! ... and to have happened in a tournament in 2025"*
+    description: >
+      You all decided that the @Hera_Aoe king snipe vs Mr Yo at The Garrison was the best of all!
+
+      Looking through this category was a lot of fun and there were so many great suggestion from DauT's quickwalling, Simba, the 4h game, DuDuZhu 3 vill victory...
+      
+      Hopefully 2026 provides us with many more!
+
+  - name: "Tournament Contributor of the Year"
+    image: tournament-contributor.jpeg
+    winner: "MembTV"
+    # nominees:
+    #   - name: "MembTV"
+    #   - name: "T90Official"
+    #   - name: "Pinstripe"
+    #   - name: "LidaKor"
+    intro: >
+      Up next is the Tournament Contributor award for 2025.
+      
+      *"This event admin/contributor may be someone that provided a huge amount of work to operations of tournaments this year. These can be professional style events or even community based."*
+    description: >
+      This award goes to MembTV with a successful year with Warlords IV and the return of KOTD, King of the Desert VI.
+
+      Kudos to you @membtv, it certainly isn't easy, and good luck in 2026 with your events.
+
+  - name: "Best Series"
+    image: series.jpeg
+    winner: "KOTD VI Finals (Hera vs TheViper)"
+    intro: > 
+      Coming to the last few awards now voted by you, the AoE II community. Again thank you for such an amazing response and for going over 1k mark this year.
+
+      Up next is Best Series.
+    description: >
+      I'm sure people will say it was recency bias, but this series certainly delivered whatever you may say. It had the mind games. Conqs. Top tier gameplay. It had people questioning if 'The Streak' would be coming to an end... it did not.
+
+      @Hera_Aoe beat @TheViperAOE 5 games to 4 in the finals of KOTD VI finals hosted by @membtv and the final moments as @GamerLegionAoE teammates.
+
+      Thank you guys for providing an amazing finals, and hopefully to many more this year.
+
+  - name: "Best S-Tier Tournament"
+    image: s-tier.jpeg
+    winner: "King of the Desert VI"
+    nominees:
+      - name: "King of the Desert VI"
+      - name: "T90 Titans League 4: Platinum League"
+      - name: "The Garrison"
+    description: >
+      Congrats once again to MembTV and his organising team for a very popular King of the Desert VI which also wins best S-Tier for 2025.
+
+  - name: "Creator of the Year"
+    intro: Last 3 awards now. Up next is Creator of the Year.
+    image: creator.jpeg
+    winner: "Hera"
+    # nominees:
+    #   - name: "Hera"
+    #   - name: "T90Official"
+    #   - name: "Spirit of the Law"
+    #   - name: "TheViper"
+    description: >
+      One comment I consistently see in the community is about Hera's content and his ability to put so much (and of good quality) out there.
+      From gameplay, educational videos, collabs and the occasional click bait video!
+      Which is funny to me, because he happens to be the undisputed number one player in the world too. It's quite impressive, isn't it?
+      It's up to others to step up their game, quite literally,  but also in the content department...
+      Well deserved win @Hera_Aoe. You're the Creator of the Year!
+
+  - name: "Caster of the Year"
+    winner: "T90Official"
+    image: caster.jpeg
+    # nominees:
+    #   - name: "T90Official"
+    #   - name: "Dave"
+    #   - name: "MembTV"
+    #   - name: "OrnLu"
+    intro: "He's the casting king for a reason."
+    description: >
+      A big reason why many of us are still engaged in the game. Mr T90Official is your Caster of the Year for 2025.
+
+  - name: "Player of the Year"
+    image: player.jpeg
+    winner: "Hera"
+    # nominees:
+    #   - name: "Hera"
+    #   - name: "TheViper"
+    #   - name: "Yo"
+    #   - name: "Liereyy"
+    description: >
+      Hera. Hera. Hera. He's everywhere. Huge sweep of awards for 2025 and tops it off with Player of the Year. 2025 will always be remembered as the year he broke the A-tier streak. Truly impressive stuff.
