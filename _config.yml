@@ -35,6 +35,7 @@ theme: minima
 
 minima:
   skin: dark
+  hide_site_feed_link: true
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/paradox303"}
     - { platform: twitch, user_url: "https://twitch.tv/paradox303"}
@@ -43,7 +44,7 @@ minima:
 plugins:
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@6b9b78d
 
 # Exclude from processing.
 # The following items will not be processed, by default.
